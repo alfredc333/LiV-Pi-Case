@@ -1,1 +1,0 @@
-LiV Pi 3D Case. Liv Pi Cardboard case. Final form. March 2024.  
