@@ -9,5 +9,5 @@ Final Submission.
 
 LiV Pi 3D printed case, LiV Pi cardboard case and LiV Pi Expansion Board: all files are released under a [CC BY-NC-SA 4.0 license](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 
-ALiV Pi software: all files are released under a [MIT license](https://en.wikipedia.org/wiki/MIT_License)
+LiV Pi software: all files are released under a [MIT license](https://en.wikipedia.org/wiki/MIT_License)
   
